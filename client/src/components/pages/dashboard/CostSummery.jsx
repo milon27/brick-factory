@@ -29,8 +29,8 @@ const CostSummery = () => {
             .then(data => {
                 setLabour(data.response)
             });
-        
-        
+
+
         // eslint-disable-next-line react-hooks/exhaustive-deps 
     }, [app.reload]);
 
