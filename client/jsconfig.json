@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": [
+        "src", "src/components/layouts/tables/jquery.datatables.min.js"
+    ]
+}
