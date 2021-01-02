@@ -102,6 +102,14 @@ const Login = () => {
                                                     Me</label>
                             </div>
                           </div> */}
+
+                          <div className="form-group">
+                            <div className="small">
+                              <p >Demo Email: admin@g.com</p>
+                              <p>Demo Password: 1234567</p>
+                            </div>
+                          </div>
+
                           <input type="submit" value="Login Now" className="btn btn-primary btn-user btn-block" />
                           {/* <hr /> */}
                           {/* <div className="text-center">
